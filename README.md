@@ -1,2 +1,2 @@
 # commit-utteranc
-hexo-utteranc评论
+hexo-utteranc
